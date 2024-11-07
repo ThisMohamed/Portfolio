@@ -534,3 +534,27 @@ img {
     width: 450px;
   }
 }
+@media screen and (max-width: 767px) {
+  .home__img {
+    position: static; /* Remove absolute positioning on mobile */
+    margin-top: 1rem;
+    width: 180px; /* Resize image */
+  }
+
+  .home__data {
+    z-index: -1; /* Ensure text stays above image */
+  }
+
+  .home {
+    padding: 4rem 0 2rem;
+    row-gap: 2rem; /* Reduce gap between elements on mobile */
+    align-items: center; /* Center everything */
+  }
+  
+  /* Fixing general text/image issues on mobile */
+  .home__social {
+    display: flex;
+    justify-content: center;
+    row-gap: 1rem;
+  }
+}
