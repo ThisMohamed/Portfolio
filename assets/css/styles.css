@@ -470,6 +470,8 @@ img {
 
 .contact__icon {
   display: inline-block;
+  color: white;
+
 }
 /* ===== MEDIA QUERIES=====*/
 @media screen and (max-width: 320px) {
