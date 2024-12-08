@@ -21,7 +21,6 @@ Here are some of the projects I've worked on:
 2. **[Tech Trends](https://thismohamed.github.io/TechTrends/)**: A modern tech news website layout using HTML, CSS, and JavaScript.
 
 ## Contact Me
-- Facebook: [@loka7med](https://www.facebook.com/loka7med)
 - Instagram: [@loka.a23](https://www.instagram.com/loka.a23)
 - Twitter: [@M777md74](https://twitter.com/M777md74)
 - WhatsApp: [Click to Chat](https://wa.me/201060671290)
