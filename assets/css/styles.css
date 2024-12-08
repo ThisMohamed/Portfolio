@@ -459,13 +459,13 @@ img {
   font-size: var(--smaller-font-size);
 }
 .footer__contact {
-  text-align: left; /* Align the contact section text to the left */
+  text-align: left; 
 }
 
 .contact__social {
   display: flex;
-  justify-content: flex-start; /* Align items to the left */
-  gap: 10px; /* Add space between icons */
+  justify-content: flex-start; 
+  gap: 10px; 
 }
 
 .contact__icon {
@@ -600,22 +600,22 @@ img {
     margin-right: auto;
   }
   .home__img {
-    position: static; /* Remove absolute positioning on mobile */
+    position: static; 
     margin-top: 1rem;
-    width: 180px; /* Resize image */
+    width: 180px; 
   }
 
   .home__data {
-    z-index: -1; /* Ensure text stays above image */
+    z-index: -1; 
   }
 
   .home {
     padding: 4rem 0 2rem;
-    row-gap: 2rem; /* Reduce gap between elements on mobile */
-    align-items: center; /* Center everything */
+    row-gap: 2rem; 
+    align-items: center; 
   }
   
-  /* Fixing general text/image issues on mobile */
+  
   .home__social {
     display: flex;
     justify-content: center;
